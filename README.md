@@ -1,6 +1,6 @@
 # TodoMVC
 
-> The [application]('https://serene-dawn-56650.herokuapp.com/') and the [api]('https://brightcitiesapp.herokuapp.com/') is hosted in heroku platform. 
+The [application]('https://serene-dawn-56650.herokuapp.com/') and the [api]('https://brightcitiesapp.herokuapp.com/') is hosted in heroku platform. 
 
 ## API Build
 ``` bash
