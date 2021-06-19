@@ -1,9 +1,7 @@
 # TodoMVC
 
-> Aplication
 The [application](https://serene-dawn-56650.herokuapp.com/) and the [api](https://brightcitiesapp.herokuapp.com/) is hosted in heroku platform. 
 
-> Build
 ## API Build
 ``` bash
 # go to the API folder
